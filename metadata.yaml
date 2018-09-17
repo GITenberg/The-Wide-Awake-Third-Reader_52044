@@ -1,11 +1,16 @@
 _repo: The-Wide-Awake-Third-Reader_52044
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Murray, Clara
     gutenberg_agent_id: '46644'
     url: http://www.gutenberg.org/2009/agents/46644
+covers:
+- cover_type: archival
+  image_path: 52044-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52044#The-Wide-Awake-Third-Reader
 gutenberg_issued: '2016-05-11'
 gutenberg_type: Text
 identifiers:
